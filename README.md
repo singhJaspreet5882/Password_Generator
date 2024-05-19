@@ -14,6 +14,7 @@ CSS
 JavaScript
 
 Demo
+For live demo visit - https://singhjaspreet5882.github.io/Password_Generator/
 
 Contributing
 Contributions are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
